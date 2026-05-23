@@ -9,3 +9,4 @@ files/
 playlists/
 
 scripts/webtorrent.js
+*.backup
